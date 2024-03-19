@@ -28,3 +28,8 @@ body{
 
 
 }
+
+.cabecalho-principal span{
+
+    color: var(--laranja)
+}
