@@ -37,4 +37,13 @@ color:var#ffbc57
     background-color: var(--botao-inativo);
  }
 
-    
+    .botao{
+
+        font-size: 18px;
+        background-color: var(--botao-inativo);
+        padding: 1em;
+        display: flex;
+        justify-content: center;
+        align-items:center ;
+        
+    }
