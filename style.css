@@ -51,5 +51,17 @@ color:var#ffbc57
      border-left: 2px solid var(--botao-ativo);
      border-right: 2px solid var(--botao-ativo);
      border-top: :none;
+
+    }
+
+    .botao{
+
+        display: block;
+    }
+    @media and (min-width:768px){
+        .botoes{
+            display: flex;
+
+        }
         
     }
