@@ -65,6 +65,13 @@ color:var#ffbc57
 
 }
 
+.botao:first-child{
+
+    border-radius: 40px 40px 0 0;
+    
+    
+        }
+
     @media screen and (min-width:768px){
 .principal-botoes{
 
@@ -78,7 +85,7 @@ border-radius: 40px 0 0 0;
 
 
     }
-    .botao :last-child{
+    .botao:last-child{
 
         border-radius: 0 40px 0 0;
     }
