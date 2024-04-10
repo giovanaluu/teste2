@@ -78,7 +78,7 @@ color:var#ffbc57
     display: flex;
 }
 
-    }
+   
     .botao:first-child{
 
 border-radius: 40px 0 0 0;
@@ -88,4 +88,5 @@ border-radius: 40px 0 0 0;
     .botao:last-child{
 
         border-radius: 0 40px 0 0;
+    }
     }
