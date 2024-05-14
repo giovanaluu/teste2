@@ -35,3 +35,6 @@ horas %24;
 
 return dias + " dias " + horas + " horas " + minutos + " minutos " + segundo + " segundos "
 }
+const tempoObjetivo2 = new Date("2023-12-05T00:00:00");
+const tempoObjetivo3 = new Date("2023-12-30T00:00:00");
+const tempoObjetivo4 = new Date("2024-02-01T00:00:00");
